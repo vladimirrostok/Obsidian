@@ -15,6 +15,7 @@ Correspondence:
 Abstract: Many social-networks today face growing problems of group polarization, radicaliza-tion, and fake news. These issues are being exacerbated by the phenomenon of bots, which are becoming better at mimicking real people and are able to spread fake news faster within social-networks. Methods exist for detecting these social-media bots, but they may be vulnerable to manipulation. One way this might be done is through what is called a poisoning attack, where the data used to train a model is altered with the goal of reducing the models accuracy. The goal of this research is to study how poisoning attacks may be applied to models for detecting bots on Twitter. The results show that by introducing mislabeled data- points into a such a models training data, attackers can reduce its accuracy by up to twenty percent. The possibility of more effective poisoning techniques exists, and remains a topic for future research.
 Extras: 
 Journal/Q index: conference only, no Q index, excluded
+URL: https://www.sciencedirect.com/science/article/pii/S240589631932021X
 ---
 
 
