@@ -1,5 +1,5 @@
 ---
-Title: "ARTIFICIAL INTELLIGENCE AND DISINFORMATION: STATE-ALIGNED INFORMATION OPERATIONS AND THE DISTORTION OF THE PUBLIC SPHERE"
+Title: "AI and Disinformation: State-Aligned Information Operations and the Distortion of the Public Sphere"
 Authors:
   - Dr. Courtney Radsch
   - "Report Coordinator: Julia Haas and Deniz Wagner"
@@ -8,9 +8,8 @@ References: 55
 Citations: 2 (22.10.2024)
 Correspondence: 
 Abstract: ""
-Completed: 
 Extras: 
-Journal/Q index:
+Journal/Q index: conference only, no Q index, excluded
 ---
 
 
@@ -19,5 +18,4 @@ Journal/Q index:
 ### Results: 
 ### Achieved: 
 ### Dataset:
-
 
