@@ -1,5 +1,5 @@
 1. [Large Language Model Lateral Spear Phishing: A Comparative Study in Large-Scale Organizational Settings](https://arxiv.org/abs/2401.09727)
-2. [Socially Aware Synthetic Data Generation for Suicidal Ideation Detection Using Large Language Models](https://arxiv.org/abs/2402.01712)
+2. [Socially Aware Synthetic Data Generation for Suicidal Ideation Detection Using Large Language Models](https://ieeexplore.ieee.org/document/10413447)
 3. [Analysis of the Impact of Poisoned Data within Twitter Classification Models](https://www.sciencedirect.com/science/article/pii/S240589631932021X)
 4. [SEADer++ v2: Detecting Social Engineering Attacks using Natural Language Processing and Machine Learning](https://ieeexplore.ieee.org/document/9194623)
 5. [Towards Generation of Synthetic Data Sets for Hybrid Conflict Modelling](https://www.researchgate.net/publication/364422956_Towards_Generation_of_Synthetic_Data_Sets_for_Hybrid_Conflict_Modelling)
