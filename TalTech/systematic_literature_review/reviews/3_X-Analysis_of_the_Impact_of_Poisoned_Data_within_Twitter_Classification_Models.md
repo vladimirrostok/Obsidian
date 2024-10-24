@@ -16,6 +16,8 @@ Abstract: Many social-networks today face growing problems of group polarization
 Extras: 
 Journal/Q index: conference only, no Q index, excluded
 URL: https://www.sciencedirect.com/science/article/pii/S240589631932021X
+Completed: 
+Dataset:
 ---
 
 

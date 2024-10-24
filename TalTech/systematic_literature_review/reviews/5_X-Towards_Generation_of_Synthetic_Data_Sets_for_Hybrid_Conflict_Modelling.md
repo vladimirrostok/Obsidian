@@ -14,6 +14,8 @@ Abstract: Design proposal for an AI-driven military situational awareness applic
 Extras: 
 Journal/Q index: q3, excluded, IFAC-PapersOnLine
 URL: https://www.sciencedirect.com/science/article/pii/S2405896322022510?via%3Dihub
+Completed: 
+Dataset:
 ---
 
 

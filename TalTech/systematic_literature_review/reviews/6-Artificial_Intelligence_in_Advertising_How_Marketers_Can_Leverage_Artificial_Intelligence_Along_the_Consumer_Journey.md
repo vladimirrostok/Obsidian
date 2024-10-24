@@ -15,6 +15,8 @@ Abstract: ""
 Extras: 
 Journal/Q index: " the Journal of Advertising Research, Q1"
 URL: https://www.journalofadvertisingresearch.com/content/58/3/263
+Completed: 
+Dataset:
 ---
 
 

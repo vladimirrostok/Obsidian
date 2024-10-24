@@ -14,6 +14,8 @@ Abstract: Suicidal ideation detection is a vital research area that holds great 
 Extras: 
 Journal/Q index: IEEE, Q1
 URL: https://ieeexplore.ieee.org/document/10413447
+Completed: 
+Dataset:
 ---
 
 

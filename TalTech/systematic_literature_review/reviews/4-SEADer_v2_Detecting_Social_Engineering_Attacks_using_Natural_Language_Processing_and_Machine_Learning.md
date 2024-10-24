@@ -16,6 +16,8 @@ Abstract: Social engineering attacks are well known attacks in the cyberspace an
 Extras: 
 Journal/Q index: IEEE, Q1
 URL: https://ieeexplore.ieee.org/document/9194623
+Completed: 
+Dataset:
 ---
 
 

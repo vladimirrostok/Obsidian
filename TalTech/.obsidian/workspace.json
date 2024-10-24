@@ -11,10 +11,14 @@
             "id": "8ed3d36081e148d3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "systematic_literature_review/reviews/template 1.md",
+                "mode": "preview",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "template 1"
             }
           }
         ]
@@ -176,28 +180,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "06fe4ccf4108486b",
+  "active": "8ed3d36081e148d3",
   "lastOpenFiles": [
-    "systematic_literature_review/reviews/8_Invisible_Threats_in_the_Data_A_Study_on_Data_Poisoning_Attacks_in_Deep_Generative_Models.md",
+    "systematic_literature_review/reviews/8_An_Enhanced_AI-Based_Network_Intrusion_Detection_System_Using_Generative_Adversarial_Networks.md",
+    "systematic_literature_review/reviews/template 1.md",
+    "systematic_literature_review/Articles.md",
+    "systematic_literature_review/articles/8_An_Enhanced_AI-Based_Network_Intrusion_Detection_System_Using_Generative_Adversarial_Networks.pdf",
+    "systematic_literature_review/reviews/1_X-Large_Language_Model_Lateral_Spear_Phishing_A_Comparative_Study_in_Large-Scale_Organizational_Settings.md",
+    "systematic_literature_review/reviews/2-Socially_Aware_Synthetic_Data_Generation_for_Suicidal_Ideation_Detection_Using_Large_Language_Models.md",
+    "systematic_literature_review/reviews/3_X-Analysis_of_the_Impact_of_Poisoned_Data_within_Twitter_Classification_Models.md",
+    "systematic_literature_review/reviews/4-SEADer_v2_Detecting_Social_Engineering_Attacks_using_Natural_Language_Processing_and_Machine_Learning.md",
+    "systematic_literature_review/reviews/5_X-Towards_Generation_of_Synthetic_Data_Sets_for_Hybrid_Conflict_Modelling.md",
+    "systematic_literature_review/reviews/6-Artificial_Intelligence_in_Advertising_How_Marketers_Can_Leverage_Artificial_Intelligence_Along_the_Consumer_Journey.md",
+    "systematic_literature_review/reviews/7_X-Artificial_Intelligence_And_Disinformation_State-aligned_Information_Operations_And_The_Distortion_Of_The_Public_Sphere.md",
     "systematic_literature_review/articles/1_X-Large_Language_Model_Lateral_Spear_Phishing_A_Comparative_Study_in_Large-Scale_Organizational_Settings.pdf",
-    "systematic_literature_review/articles/8_Invisible_Threats_in_the_Data_A_Study_on_Data_Poisoning_Attacks_in_Deep_Generative_Models.pdf",
+    "systematic_literature_review/articles/2-Socially_Aware_Synthetic_Data_Generation_for_Suicidal_Ideation_Detection_Using_Large_Language_Models.pdf",
     "systematic_literature_review/articles/7_X-Artificial_Intelligence_And_Disinformation_State-aligned_Information_Operations_And_The_Distortion_Of_The_Public_Sphere.pdf",
+    "systematic_literature_review/reviews/8_Invisible_Threats_in_the_Data_A_Study_on_Data_Poisoning_Attacks_in_Deep_Generative_Models.md",
+    "systematic_literature_review/articles/8_Invisible_Threats_in_the_Data_A_Study_on_Data_Poisoning_Attacks_in_Deep_Generative_Models.pdf",
     "systematic_literature_review/articles/5_X-Towards_Generation_of_Synthetic_Data_Sets_for_Hybrid_Conflict_Modelling.pdf",
     "systematic_literature_review/articles/6-Artificial_Intelligence_in_Advertising_How_Marketers_Can_Leverage_Artificial_Intelligence_Along_the_Consumer_Journey.pdf",
-    "systematic_literature_review/reviews/4-SEADer_v2_Detecting_Social_Engineering_Attacks_using_Natural_Language_Processing_and_Machine_Learning.md",
-    "systematic_literature_review/reviews/7_X-Artificial_Intelligence_And_Disinformation_State-aligned_Information_Operations_And_The_Distortion_Of_The_Public_Sphere.md",
-    "systematic_literature_review/reviews/6-Artificial_Intelligence_in_Advertising_How_Marketers_Can_Leverage_Artificial_Intelligence_Along_the_Consumer_Journey.md",
-    "systematic_literature_review/reviews/5_X-Towards_Generation_of_Synthetic_Data_Sets_for_Hybrid_Conflict_Modelling.md",
-    "systematic_literature_review/reviews/3_X-Analysis_of_the_Impact_of_Poisoned_Data_within_Twitter_Classification_Models.md",
-    "systematic_literature_review/reviews/2-Socially_Aware_Synthetic_Data_Generation_for_Suicidal_Ideation_Detection_Using_Large_Language_Models.md",
-    "systematic_literature_review/reviews/1_X-Large_Language_Model_Lateral_Spear_Phishing_A_Comparative_Study_in_Large-Scale_Organizational_Settings.md",
-    "systematic_literature_review/Articles.md",
-    "systematic_literature_review/reviews/template.md",
     "systematic_literature_review/articles/Invisible_Threats_in_the_Data_A_Study_on_Data_Poisoning_Attacks_in_Deep_Generative_Models.pdf",
     "Welcome.md",
     "systematic_literature_review/articles/4-SEADer_v2_Detecting_Social_Engineering_Attacks_using_Natural_Language_Processing_and_Machine_Learning.pdf",
-    "systematic_literature_review/articles/3_X-Analysis_of_the_Impact_of_Poisoned_Data_within_Twitter_Classification_Models.pdf",
-    "systematic_literature_review/articles/2-Socially_Aware_Synthetic_Data_Generation_for_Suicidal_Ideation_Detection_Using_Large_Language_Models.pdf",
-    "supervisory_meetings/22_10_2024.pdf"
+    "systematic_literature_review/articles/3_X-Analysis_of_the_Impact_of_Poisoned_Data_within_Twitter_Classification_Models.pdf"
   ]
 }
