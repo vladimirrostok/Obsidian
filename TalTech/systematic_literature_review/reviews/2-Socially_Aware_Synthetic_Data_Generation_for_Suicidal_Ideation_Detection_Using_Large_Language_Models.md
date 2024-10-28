@@ -20,6 +20,10 @@ Dataset:
 
 
 ### Extras: 
+Zero-Shot and Few-Shot approaches in GLLM
+
+Furthermore, the authors introduced a parameter known as the ‘‘Inconclusiveness Rate,’’ which indicates the proportion of test cases that do not produce a definitive or conclusive result
+
 ### Problem: 
 ### Results: 
 ### Achieved: 
