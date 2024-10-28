@@ -1,5 +1,6 @@
 ---
 Title: "SEADer++ v2: Detecting Social Engineering Attacks using Natural Language Processing and Machine Learning"
+Date: 24-26 August 2020
 Authors:
   - Merton Lansley
   - Stelios Kapetanakis

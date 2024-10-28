@@ -1,5 +1,6 @@
 ---
 Title: Towards Generation of Synthetic Data Sets for Hybrid Conflict Modelling
+Date: 19 October 2022
 Authors:
   - Sven Nõmm
   - Adrian Venables

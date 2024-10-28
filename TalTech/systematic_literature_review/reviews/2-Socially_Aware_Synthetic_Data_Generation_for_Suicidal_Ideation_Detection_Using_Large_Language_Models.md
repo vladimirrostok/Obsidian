@@ -1,5 +1,6 @@
 ---
 Title: Socially Aware Synthetic Data Generation for Suicidal Ideation Detection Using Large Language Models
+Date: 24 January 2024
 Authors:
   - Hamideh Ghanadian
   - Sar Nejadgholi

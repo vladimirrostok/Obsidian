@@ -1,5 +1,6 @@
 ---
 Title: "Artificial Intelligence in Advertising: How Marketers Can Leverage Artificial Intelligence Along the Consumer Journey"
+Date: 1 September 2018
 Authors:
   - Jan Kietzmann
   - Jeannette Paschen

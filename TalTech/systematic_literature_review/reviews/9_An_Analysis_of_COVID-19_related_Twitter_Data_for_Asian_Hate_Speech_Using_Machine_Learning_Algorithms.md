@@ -1,5 +1,6 @@
 ---
 Title: An Analysis of COVID-19 related Twitter Data for Asian Hate Speech Using Machine Learning Algorithms
+Date: 23 September 2022
 Authors:
   - Sandeep Shah
   - Xiaohong Yuan

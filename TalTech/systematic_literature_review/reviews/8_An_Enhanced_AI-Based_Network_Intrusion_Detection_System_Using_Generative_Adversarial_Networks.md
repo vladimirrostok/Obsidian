@@ -1,5 +1,6 @@
 ---
 Title: An Enhanced AI-Based Network IntrusionDetection System Using GenerativeAdversarial Networks
+Date: 03 October 2022
 Authors:
   - Cheolhee Park
   - Jonghoon Lee

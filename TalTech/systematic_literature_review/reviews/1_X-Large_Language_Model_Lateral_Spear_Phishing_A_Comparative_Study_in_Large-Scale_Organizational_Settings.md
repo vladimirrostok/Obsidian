@@ -1,5 +1,6 @@
 ---
 Title: "Large Language Model Lateral Spear Phishing: A Comparative Study in Large-Scale Organizational Settings"
+Date: 18 Jan 2024
 Authors:
   - Mazal Bethany
   - Athanasios Galiopoulos

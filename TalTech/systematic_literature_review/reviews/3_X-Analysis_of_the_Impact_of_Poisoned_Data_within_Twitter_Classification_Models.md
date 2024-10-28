@@ -1,5 +1,6 @@
 ---
 Title: Analysis of the Impact of Poisoned Data within Twitter Classification Models
+Date: 24 December 2019
 Authors:
   - Kristopher R. Price
   - Jaan Priisalu

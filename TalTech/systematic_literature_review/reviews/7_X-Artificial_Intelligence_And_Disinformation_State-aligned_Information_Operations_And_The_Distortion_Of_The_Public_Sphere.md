@@ -1,5 +1,6 @@
 ---
 Title: "AI and Disinformation: State-Aligned Information Operations and the Distortion of the Public Sphere"
+Date: 18 Oct 2022
 Authors:
   - Dr. Courtney Radsch
   - "Report Coordinator: Julia Haas and Deniz Wagner"

@@ -1,6 +1,6 @@
 ---
 Title: "Human-in-the-Loop Rule Discovery\rfor Micropost Event Detection"
-Date: 
+Date: 21 September 2022
 Authors:
   - Akansha Bhardwaj
   - Jie Yang

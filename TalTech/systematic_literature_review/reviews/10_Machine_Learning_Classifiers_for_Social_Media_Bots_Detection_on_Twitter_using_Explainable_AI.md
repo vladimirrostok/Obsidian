@@ -1,5 +1,6 @@
 ---
 Title: "Machine Learning Classifiers for Social Media Bots\rDetection on Twitter using Explainable AI"
+Date: 23-25 November 2023
 Authors:
   - Sarishty Gupta
   - Adwitiya Sinha
